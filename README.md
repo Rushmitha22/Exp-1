@@ -30,7 +30,8 @@ To study the problem statement ,SRS,Document and draw all the UML diagrams of AT
 ![use case 1](https://github.com/user-attachments/assets/a67cb454-978c-4ebf-ada5-0f49fa506b84)
 
 ## ACTIVITY DIAGRAM:
-![use case 1](https://github.com/user-attachments/assets/1149aa52-22c9-4d9c-83f7-7d55b7ce46e8)
+![acttivity (1)](https://github.com/user-attachments/assets/6fd82943-bf9d-4068-aeb3-b741add0bde0)
+
 
 ## CLASS DIAGRAM:
 ![class 1](https://github.com/user-attachments/assets/599f5ee2-4d39-4549-a0c8-cca6b2563ab1)
